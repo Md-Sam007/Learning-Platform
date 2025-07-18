@@ -38,7 +38,7 @@ A full-stack Learning System Management (LSM) application built with the **MERN 
 
 ## 📁 Project Structure
 
-
+```text
 lsm-project/
 │
 ├── frontend/ # React frontend
